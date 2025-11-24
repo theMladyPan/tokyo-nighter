@@ -1,0 +1,21 @@
+{
+  "name": "tokyo-nighter",
+  "displayName": "tokyo-nighter",
+  "description": "tokyo night but nighter",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "tokyo nighter",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tokyo nighter-color-theme.json"
+      }
+    ]
+  }
+}
