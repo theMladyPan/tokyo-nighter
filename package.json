@@ -17,5 +17,9 @@
         "path": "./themes/tokyo nighter-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/themladypan/tokyo-nighter.git"
   }
 }
