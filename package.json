@@ -2,9 +2,9 @@
   "name": "tokyo-nighter",
   "displayName": "Tokyo Nighter",
   "description": "Tokyo Night but Nighter",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "engines": {
-    "vscode": "^1.106.1"
+    "vscode": "^1.104.0"
   },
   "categories": [
     "Themes"
@@ -22,5 +22,6 @@
     "type": "git",
     "url": "https://github.com/themladypan/tokyo-nighter.git"
   },
-  "publisher": "themladypan"
+  "publisher": "themladypan",
+  "license": "MIT"
 }
