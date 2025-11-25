@@ -1,7 +1,7 @@
 {
   "name": "tokyo-nighter",
-  "displayName": "tokyo-nighter",
-  "description": "tokyo night but nighter",
+  "displayName": "Tokyo Nighter",
+  "description": "Tokyo Night but Nighter",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.106.1"
@@ -12,14 +12,15 @@
   "contributes": {
     "themes": [
       {
-        "label": "tokyo nighter",
+        "label": "Tokyo Nighter",
         "uiTheme": "vs-dark",
-        "path": "./themes/tokyo nighter-color-theme.json"
+        "path": "./themes/tokyo-nighter-color-theme.json"
       }
     ]
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/themladypan/tokyo-nighter.git"
-  }
+  },
+  "publisher": "themladypan"
 }
